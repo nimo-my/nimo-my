@@ -1,4 +1,4 @@
-<br>
+<!-- <br>
 ✔
 <br>
 
@@ -29,7 +29,7 @@
 <br>
 <br>
 
-### 💚✨ 𝟺𝟸𝚂𝚎𝚘𝚞𝚕:
+### 💚✨ 𝟺𝟸𝚂𝚎𝚘𝚞𝚕: -->
 
 [![jisookim's 42 stats](https://badge42.vercel.app/api/v2/cl3tta764005409mduyygp0cd/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
