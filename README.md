@@ -16,8 +16,6 @@
 <br>
 <br>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnimo-my&count_bg=%2380BCA6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 ------------------------------------------------------
 
 ### 💚✨ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝:
@@ -31,7 +29,7 @@
 
 ### 💚✨ 𝟺𝟸𝚂𝚎𝚘𝚞𝚕: -->
 
-[![jisookim's 42 stats](https://badge42.vercel.app/api/v2/cl3tta764005409mduyygp0cd/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
+✨Hello!✨
 
 <!--
 **nimo-my/nimo-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
