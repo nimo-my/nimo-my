@@ -1,6 +1,6 @@
 ## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙞𝙨𝙤𝙤 K𝙞𝙢! 😸
-- 🎨 Majoring `Fine Art(Oriental Painting)` in Hongik Univ. since 2018.
-- 💻 Double majoring `Computer Software Engineering` since 2022.
+- 🎨 Majored in `Fine Art(Oriental Painting)` in Hongik Univ. since 2018.
+- 💻 Double majored in `Computer Software Engineering` since 2022.
 <br>
 
 - Interested in learning, making, creative thinking, communication and cooperation, problem solving.
