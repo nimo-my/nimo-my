@@ -1,5 +1,5 @@
-## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙞𝙨𝙤𝙤𝙠𝙞𝙢! 😸
-- 🎨 Majoring `Fine Art(Oriental Painting)` in Hongik Univ since 2018.
+## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙞𝙨𝙤𝙤 K𝙞𝙢! 😸
+- 🎨 Majoring `Fine Art(Oriental Painting)` in Hongik Univ. since 2018.
 - 💻 Double majoring `Computer Software Engineering` since 2022.
 <br>
 
@@ -21,7 +21,7 @@
 <!--
 <div align="center">
 -->
-[![My Skills](https://skillicons.dev/icons?i=git,github,c,cpp,vscode,python,mysql,html,css,react,javascript,typescript,unity,blender,figma,notion&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,c,cpp,vscode,python,mysql,html,css,react,javascript,typescript,unity,blender,figma&theme=light&perline=5)](https://skillicons.dev)
 
 ### 🍀 Contact :
 - Email : nimmo9040@gmail.com
