@@ -1,35 +1,34 @@
-<!-- <br>
-✔
+## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙞𝙨𝙤𝙤𝙠𝙞𝙢! 😸
+- 🎨 Majoring `Fine Art(Oriental Painting)` in Hongik Univ since 2018.
+- 💻 Double majoring `Computer Software Engineering` since 2022.
 <br>
 
-## 𝙃𝙞 𝙩𝙝𝙚𝙧𝙚, 𝙄'𝙢 𝙅𝙞𝙨𝙤𝙤𝙠𝙞𝙢! 🐈‍ , ,
-
-
-𝙸'𝚖 𝚖𝚊𝚓𝚘𝚛𝚒𝚗𝚐 𝚙𝚊𝚒𝚗𝚝𝚒𝚗𝚐 (𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝙺𝚘𝚛𝚎𝚊𝚗 𝙰𝚛𝚝𝚜), 
-𝚋𝚞𝚝 𝙸'𝚖 𝚊𝚕𝚜𝚘 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚃𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚢!
-
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸 𝚊𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙵𝚒𝚗𝚎 𝙰𝚛𝚝𝚜 𝚊𝚗𝚍 
-𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐 𝚊𝚝 𝙷𝚘𝚗𝚐𝚒𝚔 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚂𝚎𝚘𝚞𝚕, 𝙺𝚘𝚛𝚎𝚊.
-
-𝙿𝚕𝚎𝚊𝚜𝚎 𝚏𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎!
-<br>
-<br>
+- Interested in learning, making, creative thinking, communication and cooperation, problem solving.
+- Field interested : `graphics`, `front-end`, `overall system design`
 <br>
 
-------------------------------------------------------
-
-### 💚✨ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝:
-[𝙴-𝚖𝚊𝚒𝚕] 𝚗𝚒𝚖𝚖𝚘𝟿𝟶𝟺𝟶@𝚐𝚖𝚊𝚒𝚕.𝚌𝚘𝚖
-<br>
-[𝙸𝚗𝚜𝚝𝚊𝚛𝚐𝚛𝚊𝚖] @𝚗𝚒𝚖𝚘_𝚍𝚊𝚢𝚍𝚛𝚎𝚊𝚖𝚒𝚗𝚐
-<br>
-[𝙷𝚘𝚖𝚎-𝚙𝚊𝚐𝚎] 𝚑𝚝𝚝𝚙𝚜://𝚠𝚠𝚠.𝚓𝚒𝚜𝚘𝚘𝚔𝚒𝚖.𝚗𝚎𝚝
-<br>
+- 📚 Currently Studying in...
+  - [42 Seoul](https://42seoul.kr/en/seoul42/studies/studies_info.html)
+    - Cadet (2021.11.08 ~ 2023.09.18)
+    - Member (2023.09.18 ~ )
+  - [Hongik University](https://www.hongik.ac.kr/index.do)
+    - B.F.A.Student (2018.03 ~ )
+    - B.S.Student (2022.09 ~ )
 <br>
 
-### 💚✨ 𝟺𝟸𝚂𝚎𝚘𝚞𝚕: -->
+### 🍀 Often used Skills:
 
-✨Hello!✨
+<!--
+<div align="center">
+-->
+[![My Skills](https://skillicons.dev/icons?i=git,github,c,cpp,vscode,python,mysql,html,css,react,javascript,typescript,unity,blender,figma,notion&theme=light&perline=5)](https://skillicons.dev)
+
+### 🍀 Contact :
+- Email : nimmo9040@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/jisoo-kim-521545217/)
+<br>
+
+<br>
 
 <!--
 **nimo-my/nimo-my** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
