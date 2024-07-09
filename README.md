@@ -12,8 +12,10 @@
     - Cadet (2021.11.08 ~ 2023.09.18)
     - Member (2023.09.18 ~ )
   - [Hongik University](https://www.hongik.ac.kr/index.do)
-    - B.F.A.Student (2018.03 ~ )
-    - B.S.Student (2022.09 ~ )
+    - B.F.A.Student (2018.03 ~ 2024.7)
+    - B.S.Student (2022.09 ~ 2024.7)
+  - [SEA:ME](https://github.com/SEA-ME)
+    - Student (2024.07 ~)
 <br>
 
 ### 🍀 Often used Skills:
