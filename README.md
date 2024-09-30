@@ -4,7 +4,7 @@
 <br>
 
 - Interested in learning, making, creative thinking, communication and cooperation, problem solving.
-- Field interested : `AI and Machine Learning`, `graphics`, `front-end`, `overall system design`
+- Field interested : `UI/UX`, `graphics`, `front-end`, `overall system design`
 <br>
 
 - 📚 Currently Studying in...
